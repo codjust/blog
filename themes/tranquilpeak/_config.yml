@@ -53,10 +53,10 @@ sidebar:
             icon: search
             # `open-algolia-search` classes are used to open algolia search modal
             class: open-algolia-search
-        about:
-            title: global.about
-            url: /#about
-            icon: question
+            # about:
+            #title: global.about
+            #url: /#about
+            #icon: question
     author_links:
          github:
              title: global.github
@@ -83,8 +83,8 @@ sidebar:
         #     url: https://www.linkedin.com/profile/
         #     icon: linkedin
         # mail:
-        #     title: global.mail
-        #     url: mailto:
+        #     title: gmail
+        #     url: 
         #     icon: envelope-o
     rss:
         rss:

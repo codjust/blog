@@ -20,7 +20,7 @@ for(int i = 0, j = i + 10; i<5 ; i++ )
 }
 ```
 
-（2）java添加了foreash的用法，跟C++ STL里的范型极其类似，简单用法如下：
+（2）Java添加了foreach的用法，跟C++ STL里的范型极其类似，简单用法如下：
 ```java
 for(int i : range())
     printnb(i + " ");

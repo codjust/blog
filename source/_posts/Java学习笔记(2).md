@@ -1,5 +1,5 @@
 ---
-title: Java学习笔记（2）- Java的重写总结
+title: Java学习笔记(2)- Java的重写总结
 date: 2017-06-07 11:28:59
 tags:
 categories:

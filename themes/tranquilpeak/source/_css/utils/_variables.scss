@@ -26,8 +26,9 @@ $font-families: (
 );
 
 // equal to 15px
+//#5d686f
 $font-size-base:      1.6rem;
-$font-color-base:     #5d686f;
+$font-color-base:     #282828;
 $line-height-base:    1.9em;
 $letter-spacing-base: 0.01em;
 
@@ -150,7 +151,8 @@ $sidebar: (
     'lg-screen-width':  250px,
     'xlg-screen-width': 500px,
     'background':       rgba(17, 26, 35, 0),
-    'color':            #ebebeb
+    'color':           #0F0F0F
+    //#ebebeb
 );
 
 // Main

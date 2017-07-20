@@ -7,7 +7,7 @@ title: codejust
 subtitle: huchangwei of personal website
 description:
 author: huchangwei
-language: zh-cn 
+language: zh-Hans 
 timezone:
 
 # URL
@@ -63,8 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: tranquilpeak
-post_assert_folder: true
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -72,3 +71,8 @@ deploy:
   type: git
   repo: https://github.com/huchangwei/huchangwei.github.io
   branch: master
+
+leancloud_visitors:
+  enable: true
+  app_id: NeaKgae689ffdnyAD5eqPnKw-gzGzoHsz
+  app_key: eOS5Mdx6fvTdBabf1egNigqS
